@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day921Exceptions\Day921Exceptions\bin\Debug\Day921Exceptions.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day921Exceptions\Day921Exceptions\bin\Debug\Day921Exceptions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day921Exceptions\Day921Exceptions\bin\Debug\Day921Exceptions.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day921Exceptions\Day921Exceptions\obj\Debug\Day921Exceptions.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day921Exceptions\Day921Exceptions\obj\Debug\Day921Exceptions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Day921Exceptions\Day921Exceptions\obj\Debug\Day921Exceptions.pdb
